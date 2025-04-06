@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hungdao.cn/posts/Ecrack.html</loc>
+    
+    <lastmod>2025-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.hungdao.cn/posts/NERT.html</loc>
     
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hungdao.cn/cloud/index.html</loc>
+    
+    <lastmod>2025-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23,15 +41,6 @@
     <loc>https://www.hungdao.cn/tags/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hungdao.cn/posts/hello-world.html</loc>
-    
-    <lastmod>2025-03-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
